@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "xcvdefr"
+baseURL = "https:\/\/ertfdg.sdf.ert"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
